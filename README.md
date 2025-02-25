@@ -1,4 +1,4 @@
-# MSBA 503 Take-Home Assigment
+# Faster R-CNN and Yolov8: Object Detection
 ## Overview
 
 The goal of this project is to:
